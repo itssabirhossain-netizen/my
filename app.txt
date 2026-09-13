@@ -5,12 +5,12 @@
         "download_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.goa.lmind.studios.scopuls",
         "web_url": "https:\/\/example.com",
         "app_version": "0",
-        "message": "New update available!",
+        "message": "Fast Stream, real-time updates, all for you. Give Sideline 5 stars and keep us going!",
         "message_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.goa.lmind.studios.scopuls",
         "share_message": "https:\/\/play.google.com\/store\/apps\/details?id=com.goa.lmind.studios.scopuls",
         "bottom_visible": "no",
         "msg_visible": "yes",
-        "score_visible": "no",
+        "score_visible": "yes",
         "default_link": ""
     }
 ]
