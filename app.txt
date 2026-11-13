@@ -6,7 +6,7 @@
         "web_url": "https:\/\/example.com",
         "app_version": "0",
         "message": "\ud83d\udce2 Never forget to join us on YouTube; click here and subscribe.",
-        "message_url": "https:\/\/youtube.com\/@versysports?si=OHT9UY8iAIFYmXjo",
+        "message_url": "https:\/\/youtube.com\/shorts\/z2kF8VeNs7w?feature=share",
         "share_message": "https:\/\/play.google.com\/store\/apps\/details?id=com.goa.lmind.studios.scopuls",
         "bottom_visible": "no",
         "msg_visible": "yes",
