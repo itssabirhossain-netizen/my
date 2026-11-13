@@ -5,7 +5,7 @@
         "download_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.goa.lmind.studios.scopuls",
         "web_url": "https:\/\/example.com",
         "app_version": "0",
-        "message": "\u2b50 Enjoying our app? Rate us 5 stars and share your feedback! Your support means a lot \u2764\ufe0f",
+        "message": "Never forget to join us on YouTube; click here and subscribe.",
         "message_url": "https:\/\/youtube.com\/@versysports?si=OHT9UY8iAIFYmXjo",
         "share_message": "https:\/\/play.google.com\/store\/apps\/details?id=com.goa.lmind.studios.scopuls",
         "bottom_visible": "no",
